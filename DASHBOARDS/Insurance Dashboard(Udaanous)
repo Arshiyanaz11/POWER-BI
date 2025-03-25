@@ -1,0 +1,38 @@
+Insurance Analysis Dashboard - Power BI  
+
+Overview  
+This Insurance Analysis Dashboard is built using Power BI to provide key insights into insurance policies, claims, and coverage amounts. The dashboard enables users to explore policy types, claim statuses, premium amounts, and customer demographics with interactive visualizations.  
+
+---
+
+Dataset Used  
+The dataset includes the following fields:  
+- Age - Age of the policyholder  
+- ClaimAmount - Amount claimed  
+- ClaimDate - Date of the claim  
+- ClaimID - Unique ID for each claim  
+- ClaimStatus - Status of the claim (Rejected, Settled, Pending)  
+- CoverageAmount - Total coverage amount per policy  
+- CustomerID - Unique customer identifier  
+- Gender - Gender of the policyholder  
+- PolicyStartDate / PolicyEndDate - Duration of the policy  
+- PolicyNumber - Unique policy ID  
+- PolicyType - Type of insurance policy (Auto, Health, Home, Life, Travel)  
+- PremiumAmount - Premium paid for the policy  
+
+---
+
+Key Visualizations  
+- Sum of Age by Policy Type (Bar Chart)  
+- Sum of Premium Amount per Policy Type (Line Chart)  
+- Number of Policies by Type (Horizontal Bar Chart)  
+- Sum of Coverage Amount and Average Age by Claim Status (Clustered Bar and Line Chart)  
+- Claims Status Breakdown (Donut Chart)  
+- Total Metrics  
+  - Sum of Coverage Amount  
+  - Sum of Premium Amount  
+  - Sum of Claim Amount  
+  - Average Age of Policyholders  
+
+---
+
