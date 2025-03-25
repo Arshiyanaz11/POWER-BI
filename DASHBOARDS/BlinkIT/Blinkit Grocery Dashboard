@@ -1,0 +1,51 @@
+
+BlinkIT Grocery Dashboard  
+
+Overview  
+This Power BI dashboard provides key business insights for BlinkIT Grocery, an online grocery delivery service. It helps analyze sales trends, outlet performance, customer ratings, and product demand.  
+
+Key Metrics  
+- Total Sales: 997.16K  
+- Average Sales: 141  
+- Average Ratings: 3.9  
+- Number of Items: 7060  
+
+Filters  
+Users can filter the dashboard based on:  
+- Item Type  
+- Outlet Location Type  
+- Outlet Size  
+
+Visualizations  
+1. Total Sales Trend by Outlet Establishment Year (Pie Chart)  
+   - Displays sales breakdown by different years.  
+
+2. Sum of Sales by Item Type (Bar Chart)  
+   - Shows the most and least selling grocery item types.  
+
+3. Outlet Establishment Overview (Table/Matrix)  
+   - Year-wise sales figures and outlet establishment details.  
+
+4. Sales Distribution by Outlet Location Type (Map Visualization)  
+   - Geographic distribution of sales across different locations.  
+
+5. Total Sales & Average Rating by Outlet Location Type (Column Chart)  
+   - Compares sales volume and customer ratings across outlet types.  
+
+6. Sales by Outlet Size & Location Type (Stacked Bar Chart)  
+   - Highlights how outlet size impacts sales and location-based performance.  
+
+7. Outlet Ratings vs. Total Sales (Line Chart)  
+   - Analyzes trends between outlet sales and their respective customer ratings.  
+
+Purpose  
+This dashboard helps BlinkIT's decision-makers understand:  
+- Top-performing products & outlets  
+- Customer rating trends  
+- Sales distribution across regions  
+- Year-over-year sales performance  
+
+Developed by: Arshiya  👩‍💻  
+Last Updated: March 22, 2025  
+
+---
