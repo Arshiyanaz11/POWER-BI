@@ -1,0 +1,30 @@
+Netflix Data Analysis Dashboard  
+
+This project involves building an interactive Power BI dashboard to analyze Netflix shows and movies based on various metrics. The analysis provides insights into the distribution of titles, ratings, genres, release years, and countries.  
+
+Project Overview  
+The primary objective of this dashboard is to visualize and explore Netflix's content library, offering insights into trends and patterns related to genres, ratings, release years, and geographical distribution. The dataset used for this analysis comprises approximately 8,798 titles.  
+
+Key Features  
+Show Type Analysis: Visualization of the distribution between Movies and TV Shows.  
+Rating Distribution: Analysis of the most common ratings assigned to Netflix content.  
+Genre Analysis: Identification of popular genres based on total show counts.  
+Release Year Analysis: Visualization of content release trends over the years.  
+Country-wise Analysis: Mapping the number of titles by country.  
+Key Metrics Display:  
+- Total Titles: 8,798  
+- Unique Ratings: 19  
+- Total Directors: 4,404  
+- Unique Genres: 17  
+- Release Years Range: 1925 - 2021  
+
+Tools and Technologies Used  
+Power BI (for data visualization and dashboard creation)  
+Excel (for initial data cleaning and preprocessing)  
+
+Insights and Findings  
+The majority of the content on Netflix consists of movies (approximately 69.62%).  
+The most popular genres include Dramas, Comedies, and Documentaries.  
+TV-MA and TV-14 are the most common ratings.  
+The number of titles released increased significantly after 2000.  
+Titles are distributed globally, with significant contributions from countries.
