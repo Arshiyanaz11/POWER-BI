@@ -1,0 +1,51 @@
+
+Bike Sales Performance Dashboard
+
+This repository contains the Bike Sales Performance Dashboard built using Power BI. The dashboard provides valuable insights into bike sales data through various visualizations and metrics.
+
+Dataset Used
+
+The dataset includes various columns like:
+- Age_Group
+- Country
+- Customer_Age
+- Customer_Gender
+- Date (Day, Month, Year)
+- Order_Quantity
+- Product
+- Product_Category
+- Profit
+- Revenue
+- State
+- Sub_Category
+- Unit_Cost
+- Unit_Price
+- Year
+- YoY % Change
+
+Visualizations Included
+
+1. Top 10 Products Chart - Displaying top 10 products based on profit.
+2. Stacked Bar Chart - Showing profit by Sub Category.
+3. Bubble Chart - Visualizing revenue by Age Group.
+4. Map - Showing profit distribution by Country.
+5. Profit and Year-on-Year % Change Cards - Including a Year Parameter filter.
+6. Revenue Cards & Line Chart - Displaying revenue trends over time.
+7. Product Category Cost Card - Highlighting total cost for each product category.
+8. Overall Dashboard - Integrating all visuals into a comprehensive dashboard view.
+
+Tools & Technologies Used
+
+- Power BI - Visualization & Analysis
+- Power Query - Data Transformation
+- DAX Functions - Calculations and Metrics
+
+How to Use
+
+1. Clone the repository to your local machine.
+2. Open the Power BI file (.pbix) in Power BI Desktop.
+3. Explore the dashboard and visuals.
+
+Author
+
+Arshiyanaaz
