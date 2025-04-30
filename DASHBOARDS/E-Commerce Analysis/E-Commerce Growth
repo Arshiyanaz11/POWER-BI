@@ -1,0 +1,42 @@
+Project Title: E-Commerce Customer Behavior & Sales Optimization
+
+Objective: 
+Analyze customer behavior and purchasing patterns to uncover insights that help improve sales strategies, optimize marketing efforts, and increase customer retention.
+
+Tools and Technologies Used:
+Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)  
+Power BI  
+Jupyter Notebook  
+
+Project Deliverables:
+
+1. Data Cleaning and Feature Engineering (Python)  
+- Handled missing values, removed duplicates, and treated outliers  
+- Encoded categorical variables  
+- Created new features such as revenue per user, order frequency, and recency
+
+2. Exploratory Data Analysis (Python)  
+- Performed RFM (Recency, Frequency, Monetary) analysis  
+- Calculated Customer Lifetime Value (CLV)  
+- Analyzed cart abandonment behavior and product/category trends
+
+3. Customer Segmentation and Predictive Modeling  
+- Applied K-means clustering for customer segmentation based on purchasing behavior  
+- Built classification models (Logistic Regression and Random Forest) to predict repeat purchases  
+- (Optional module) Used Prophet for time-series forecasting of future sales
+
+4. Dashboard and Reporting (Power BI)  
+- Developed an interactive dashboard highlighting KPIs such as revenue, AOV, churn rate, and top products  
+- Included visuals such as combo charts, scatter plots, maps, and bar graphs  
+- Enabled dynamic filtering by country, date, and customer segments
+
+5. Business Recommendations  
+- Delivered 5 to 10 actionable insights supported by data analysis  
+- Compiled visual summaries and recommendations into a final presentation deck
+
+Learning Outcomes:
+- Applied real-world data cleaning, feature engineering, and modeling techniques  
+- Gained practical experience in exploratory data analysis and clustering  
+- Developed business-oriented dashboards using Power BI  
+- Learned to translate analytical findings into strategic recommendations  
+
